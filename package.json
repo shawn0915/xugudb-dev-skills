@@ -1,0 +1,34 @@
+{
+  "name": "xugudb-dev-skills",
+  "version": "1.0.0",
+  "description": "XuguDB Claude Code skill package - 虚谷数据库 AI 编码助手技能包",
+  "bin": {
+    "xugudb-dev-skills": "./install.js"
+  },
+  "keywords": [
+    "xugudb",
+    "xugu",
+    "database",
+    "claude-code",
+    "skills",
+    "sql",
+    "distributed",
+    "vector",
+    "spatial",
+    "migration"
+  ],
+  "author": "XuguDB Team",
+  "license": "Apache-2.0",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kourou25/xugudb-dev-skills.git"
+  },
+  "homepage": "https://github.com/kourou25/xugudb-dev-skills#readme",
+  "files": [
+    "skills/",
+    ".claude-plugin/",
+    "install.js",
+    "README.md",
+    "LICENSE"
+  ]
+}
